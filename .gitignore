@@ -1,0 +1,15 @@
+# Ambiente virtual
+.myvenv/
+
+# Pytest cache
+.pytest_cache/
+
+# Dados processados
+data/processed/
+
+# Arquivos Python compilados
+*.pyc
+__pycache__/
+
+# Configurações do editor (opcional)
+.vscode/
